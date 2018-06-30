@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://g.recordit.co/PKq2V03FRX.gif)'
+![Video Walkthrough](http://g.recordit.co/64x5U64DKt.gif)'
 
 GIF created with [RecordIt](http://recordit.co/).
 
